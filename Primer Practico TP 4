@@ -1,0 +1,5 @@
+Primer Practico TP4
+
+1 Movimientos bancarios: Debe permitir ingresar el detalle del concepto, la fecha, 
+si es debito o credito y el monto, que se guarda en un archivo de texto.
+Debe poder mostrar todos los movimientos bancarios , junto al saldo (saldo anterior + debito - credito).
